@@ -7,7 +7,7 @@ import os
 
 # --- Konfigurasi Model & Kelas ---
 MODEL_PATH = './model/cnn_klasifikasi_herring_1d.h5' 
-SERIES_LENGTH = 304
+SERIES_LENGTH = 512
 CLASS_NAMES = ['North Sea (Kelas 1)', 'Thames (Kelas 2)'] 
 CONFIDENCE_THRESHOLD = 0.80 # Batas kepercayaan (80%)
 
