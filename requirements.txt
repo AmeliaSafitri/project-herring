@@ -1,0 +1,6 @@
+# Nama File: requirements.txt
+streamlit
+tensorflow
+numpy
+pandas
+scikit-learn
